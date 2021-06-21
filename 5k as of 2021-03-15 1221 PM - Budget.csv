@@ -1,0 +1,217 @@
+﻿"Month","Category Group/Category","Category Group","Category","Budgeted","Activity","Available"
+"Jan 2021","Debt Payments: 401K Loan $1139.19","Debt Payments","401K Loan $1139.19",$0.00,$0.00,$0.00
+"Jan 2021","Debt Payments: HELOC Interest $350","Debt Payments","HELOC Interest $350",$300.00,$0.00,$300.00
+"Jan 2021","Debt Payments: IRS 2018 $350","Debt Payments","IRS 2018 $350",$350.00,-$350.00,$0.00
+"Jan 2021","Rental Business Expenses: Mortgage $2421.06","Rental Business Expenses","Mortgage $2421.06",$2421.06,-$2421.06,$0.00
+"Jan 2021","Rental Business Expenses: Natural Gas $242","Rental Business Expenses","Natural Gas $242",$180.00,-$270.00,-$90.00
+"Jan 2021","Rental Business Expenses: Electric Grid $165","Rental Business Expenses","Electric Grid $165",$180.00,-$583.25,-$403.25
+"Jan 2021","Rental Business Expenses: Electric Solar $70","Rental Business Expenses","Electric Solar $70",$60.00,-$45.31,$14.69
+"Jan 2021","Rental Business Expenses: Water $215","Rental Business Expenses","Water $215",$175.00,-$606.54,-$431.54
+"Jan 2021","Rental Business Expenses: Home Maintenance $300","Rental Business Expenses","Home Maintenance $300",$0.00,-$26.79,-$26.79
+"Jan 2021","Consulting Business Expenses: Github","Consulting Business Expenses","Github",$0.00,-$4.00,-$4.00
+"Jan 2021","Consulting Business Expenses: SSDNodes Servers","Consulting Business Expenses","SSDNodes Servers",$0.00,-$267.00,-$267.00
+"Jan 2021","Consulting Business Expenses: Calendly","Consulting Business Expenses","Calendly",$0.00,-$10.63,-$10.63
+"Jan 2021","Consulting Business Expenses: Scaleway Servers","Consulting Business Expenses","Scaleway Servers",$0.00,-$6.86,-$6.86
+"Jan 2021","Consulting Business Expenses: w3c.social","Consulting Business Expenses","w3c.social",$0.00,-$17.23,-$17.23
+"Jan 2021","Consulting Business Expenses: Invoicing","Consulting Business Expenses","Invoicing",$0.00,-$5.00,-$5.00
+"Jan 2021","Consulting Business Expenses: Digital Ocean","Consulting Business Expenses","Digital Ocean",$20.00,-$174.85,-$154.85
+"Jan 2021","Consulting Business Expenses: Domain.com Domains","Consulting Business Expenses","Domain.com Domains",$20.00,$0.00,$20.00
+"Jan 2021","Consulting Business Expenses: Godaddy Domains","Consulting Business Expenses","Godaddy Domains",$20.00,-$180.03,-$160.03
+"Jan 2021","Consulting Business Expenses: Wordpress","Consulting Business Expenses","Wordpress",$5.00,$0.00,$5.00
+"Jan 2021","Consulting Business Expenses: Ionos hawke.org","Consulting Business Expenses","Ionos hawke.org",$15.00,$0.00,$15.00
+"Jan 2021","Consulting Business Expenses: Zoom $12","Consulting Business Expenses","Zoom $12",$12.00,$0.00,$12.00
+"Jan 2021","Consulting Business Expenses: Internet + Voice MODIFY $156.75","Consulting Business Expenses","Internet + Voice MODIFY $156.75",$150.00,-$156.75,-$6.75
+"Jan 2021","Other Constant Expenses: Health Insurance","Other Constant Expenses","Health Insurance",$0.00,-$448.68,-$448.68
+"Jan 2021","Other Constant Expenses: Microsoft Office 365 - B","Other Constant Expenses","Microsoft Office 365 - B",$0.00,$0.00,$0.00
+"Jan 2021","Other Constant Expenses: News - NYTimes","Other Constant Expenses","News - NYTimes",$0.00,-$15.00,-$15.00
+"Jan 2021","Other Constant Expenses: Boston Globe, $27.72 on 18th","Other Constant Expenses","Boston Globe, $27.72 on 18th",$27.72,-$27.72,$0.00
+"Jan 2021","Other Constant Expenses: Google Cloud","Other Constant Expenses","Google Cloud",$0.00,-$4.98,-$4.98
+"Jan 2021","Other Constant Expenses: Life Insurance","Other Constant Expenses","Life Insurance",$0.00,-$118.64,-$118.64
+"Jan 2021","Other Constant Expenses: Amazon Prime  $12.99","Other Constant Expenses","Amazon Prime  $12.99",$12.99,$0.00,$12.99
+"Jan 2021","Other Constant Expenses: Whatbox","Other Constant Expenses","Whatbox",$15.00,$0.00,$15.00
+"Jan 2021","Other Constant Expenses: Spotify Family","Other Constant Expenses","Spotify Family",$15.00,-$14.99,$0.01
+"Jan 2021","Other Constant Expenses: Mobile Phone","Other Constant Expenses","Mobile Phone",$150.00,-$150.00,$0.00
+"Jan 2021","Other Constant Expenses: Auto Insurance // MODIFY","Other Constant Expenses","Auto Insurance // MODIFY",$200.00,-$449.50,-$249.50
+"Jan 2021","Other Constant Expenses: Netflix $15.99","Other Constant Expenses","Netflix $15.99",$15.99,-$15.99,$0.00
+"Jan 2021","Other Constant Expenses: Experian 19.95 on 18","Other Constant Expenses","Experian 19.95 on 18",$0.00,$0.00,$0.00
+"Jan 2021","Variable Expenses: Aubrey College","Variable Expenses","Aubrey College",$0.00,-$30.25,-$30.25
+"Jan 2021","Variable Expenses: Household","Variable Expenses","Household",$0.00,-$50.19,-$50.19
+"Jan 2021","Variable Expenses: Pets","Variable Expenses","Pets",$0.00,-$31.82,-$31.82
+"Jan 2021","Variable Expenses: Ignore","Variable Expenses","Ignore",$0.00,$8997.22,$8997.22
+"Jan 2021","Variable Expenses: G Holdings","Variable Expenses","G Holdings",$0.00,$0.00,$0.00
+"Jan 2021","Variable Expenses: B Holdings","Variable Expenses","B Holdings",$0.00,$0.00,$0.00
+"Jan 2021","Variable Expenses: A Holdings","Variable Expenses","A Holdings",$0.00,$0.00,$0.00
+"Jan 2021","Variable Expenses: C Holdings","Variable Expenses","C Holdings",$0.00,-$8.11,-$8.11
+"Jan 2021","Variable Expenses: Dental","Variable Expenses","Dental",$0.00,$0.00,$0.00
+"Jan 2021","Variable Expenses: Groceries","Variable Expenses","Groceries",$600.00,-$809.41,-$209.41
+"Jan 2021","Variable Expenses: Auto Maintenance","Variable Expenses","Auto Maintenance",$30.00,-$200.49,-$170.49
+"Jan 2021","Variable Expenses: Gasoline","Variable Expenses","Gasoline",$20.00,-$46.30,-$26.30
+"Jan 2021","Variable Expenses: Medical","Variable Expenses","Medical",$0.00,-$180.64,-$180.64
+"Jan 2021","Variable Expenses: Vitamins & Supplements","Variable Expenses","Vitamins & Supplements",$30.00,-$69.86,-$39.86
+"Jan 2021","Variable Expenses: Clothing","Variable Expenses","Clothing",$0.00,$0.00,$0.00
+"Jan 2021","Variable Expenses: Gifts","Variable Expenses","Gifts",$0.00,$0.00,$0.00
+"Jan 2021","Variable Expenses: Giving","Variable Expenses","Giving",$0.00,$0.00,$0.00
+"Jan 2021","Variable Expenses: Computer Replacement","Variable Expenses","Computer Replacement",$0.00,$0.00,$0.00
+"Jan 2021","Variable Expenses: Software Subscriptions","Variable Expenses","Software Subscriptions",$0.00,-$10.61,-$10.61
+"Jan 2021","Variable Expenses: Stuff I Forgot to Budget For","Variable Expenses","Stuff I Forgot to Budget For",$0.00,$0.00,$0.00
+"Jan 2021","Quality of Life Goals: Vacation","Quality of Life Goals","Vacation",$0.00,$0.00,$0.00
+"Jan 2021","Quality of Life Goals: Fitness","Quality of Life Goals","Fitness",$0.00,$0.00,$0.00
+"Jan 2021","Quality of Life Goals: Education","Quality of Life Goals","Education",$0.00,$0.00,$0.00
+"Jan 2021","Just for Fun: Being Social","Just for Fun","Being Social",$0.00,-$5.45,-$5.45
+"Jan 2021","Just for Fun: Seedbox","Just for Fun","Seedbox",$0.00,-$15.00,-$15.00
+"Jan 2021","Just for Fun: Support for Content Creators","Just for Fun","Support for Content Creators",$0.00,-$4.99,-$4.99
+"Jan 2021","Just for Fun: Politcal Donations","Just for Fun","Politcal Donations",$13.00,-$33.50,-$20.50
+"Jan 2021","Just for Fun: Books","Just for Fun","Books",$0.00,-$4.00,-$4.00
+"Jan 2021","Just for Fun: Dining Out","Just for Fun","Dining Out",$0.00,-$192.31,-$192.31
+"Jan 2021","Just for Fun: Gaming","Just for Fun","Gaming",$0.00,-$8.55,-$8.55
+"Jan 2021","Just for Fun: Music","Just for Fun","Music",$0.00,$0.00,$0.00
+"Jan 2021","Just for Fun: Fun Money","Just for Fun","Fun Money",$0.00,$0.00,$0.00
+"Jan 2021","Hidden Categories: Costco","Hidden Categories","Costco",$0.00,$279.95,$279.95
+"Jan 2021","Hidden Categories: Discover","Hidden Categories","Discover",$0.00,$420.18,$420.18
+"Jan 2021","Hidden Categories: Citizens Card","Hidden Categories","Citizens Card",$0.00,$41.91,$41.91
+"Jan 2021","Hidden Categories: BofA Card","Hidden Categories","BofA Card",$0.00,$600.73,$600.73
+"Jan 2021","Hidden Categories: WellFargo","Hidden Categories","WellFargo",$0.00,$101.90,$101.90
+"Feb 2021","Debt Payments: 401K Loan $1139.19","Debt Payments","401K Loan $1139.19",$0.00,$0.00,$0.00
+"Feb 2021","Debt Payments: HELOC Interest $350","Debt Payments","HELOC Interest $350",$0.00,$0.00,$300.00
+"Feb 2021","Debt Payments: IRS 2018 $350","Debt Payments","IRS 2018 $350",$0.00,$0.00,$0.00
+"Feb 2021","Rental Business Expenses: Mortgage $2421.06","Rental Business Expenses","Mortgage $2421.06",$2331.06,-$2421.06,-$90.00
+"Feb 2021","Rental Business Expenses: Natural Gas $242","Rental Business Expenses","Natural Gas $242",$242.00,-$270.00,-$28.00
+"Feb 2021","Rental Business Expenses: Electric Grid $165","Rental Business Expenses","Electric Grid $165",$165.00,$0.00,$165.00
+"Feb 2021","Rental Business Expenses: Electric Solar $70","Rental Business Expenses","Electric Solar $70",$70.00,-$1.09,$83.60
+"Feb 2021","Rental Business Expenses: Water $215","Rental Business Expenses","Water $215",$215.00,$0.00,$215.00
+"Feb 2021","Rental Business Expenses: Home Maintenance $300","Rental Business Expenses","Home Maintenance $300",$300.00,$0.00,$300.00
+"Feb 2021","Consulting Business Expenses: Github","Consulting Business Expenses","Github",$0.00,$0.00,$0.00
+"Feb 2021","Consulting Business Expenses: SSDNodes Servers","Consulting Business Expenses","SSDNodes Servers",$0.00,$0.00,$0.00
+"Feb 2021","Consulting Business Expenses: Calendly","Consulting Business Expenses","Calendly",$0.00,$0.00,$0.00
+"Feb 2021","Consulting Business Expenses: Scaleway Servers","Consulting Business Expenses","Scaleway Servers",$0.00,-$6.75,-$6.75
+"Feb 2021","Consulting Business Expenses: w3c.social","Consulting Business Expenses","w3c.social",$0.00,-$16.86,-$16.86
+"Feb 2021","Consulting Business Expenses: Invoicing","Consulting Business Expenses","Invoicing",$0.00,-$5.00,-$5.00
+"Feb 2021","Consulting Business Expenses: Digital Ocean","Consulting Business Expenses","Digital Ocean",$0.00,-$174.85,-$174.85
+"Feb 2021","Consulting Business Expenses: Domain.com Domains","Consulting Business Expenses","Domain.com Domains",$0.00,$0.00,$20.00
+"Feb 2021","Consulting Business Expenses: Godaddy Domains","Consulting Business Expenses","Godaddy Domains",$0.00,-$16.94,-$16.94
+"Feb 2021","Consulting Business Expenses: Wordpress","Consulting Business Expenses","Wordpress",$0.00,$0.00,$5.00
+"Feb 2021","Consulting Business Expenses: Ionos hawke.org","Consulting Business Expenses","Ionos hawke.org",$0.00,$0.00,$15.00
+"Feb 2021","Consulting Business Expenses: Zoom $12","Consulting Business Expenses","Zoom $12",$0.00,$0.00,$12.00
+"Feb 2021","Consulting Business Expenses: Internet + Voice MODIFY $156.75","Consulting Business Expenses","Internet + Voice MODIFY $156.75",$0.00,$0.00,$0.00
+"Feb 2021","Other Constant Expenses: Health Insurance","Other Constant Expenses","Health Insurance",$0.00,$0.00,$0.00
+"Feb 2021","Other Constant Expenses: Microsoft Office 365 - B","Other Constant Expenses","Microsoft Office 365 - B",$0.00,-$10.61,-$10.61
+"Feb 2021","Other Constant Expenses: News - NYTimes","Other Constant Expenses","News - NYTimes",$0.00,$0.00,$0.00
+"Feb 2021","Other Constant Expenses: Boston Globe, $27.72 on 18th","Other Constant Expenses","Boston Globe, $27.72 on 18th",$0.00,$0.00,$0.00
+"Feb 2021","Other Constant Expenses: Google Cloud","Other Constant Expenses","Google Cloud",$0.00,-$1.99,-$1.99
+"Feb 2021","Other Constant Expenses: Life Insurance","Other Constant Expenses","Life Insurance",$0.00,-$118.64,-$118.64
+"Feb 2021","Other Constant Expenses: Amazon Prime  $12.99","Other Constant Expenses","Amazon Prime  $12.99",$0.00,-$12.99,$0.00
+"Feb 2021","Other Constant Expenses: Whatbox","Other Constant Expenses","Whatbox",$0.00,$0.00,$15.00
+"Feb 2021","Other Constant Expenses: Spotify Family","Other Constant Expenses","Spotify Family",$0.00,-$14.99,-$14.98
+"Feb 2021","Other Constant Expenses: Mobile Phone","Other Constant Expenses","Mobile Phone",$0.00,-$150.00,-$150.00
+"Feb 2021","Other Constant Expenses: Auto Insurance // MODIFY","Other Constant Expenses","Auto Insurance // MODIFY",$0.00,-$173.79,-$173.79
+"Feb 2021","Other Constant Expenses: Netflix $15.99","Other Constant Expenses","Netflix $15.99",$0.00,$0.00,$0.00
+"Feb 2021","Other Constant Expenses: Experian 19.95 on 18","Other Constant Expenses","Experian 19.95 on 18",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: Aubrey College","Variable Expenses","Aubrey College",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: Household","Variable Expenses","Household",$0.00,-$102.35,-$102.35
+"Feb 2021","Variable Expenses: Pets","Variable Expenses","Pets",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: Ignore","Variable Expenses","Ignore",$0.00,$33239.17,$42236.39
+"Feb 2021","Variable Expenses: G Holdings","Variable Expenses","G Holdings",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: B Holdings","Variable Expenses","B Holdings",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: A Holdings","Variable Expenses","A Holdings",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: C Holdings","Variable Expenses","C Holdings",$0.00,-$29.99,-$29.99
+"Feb 2021","Variable Expenses: Dental","Variable Expenses","Dental",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: Groceries","Variable Expenses","Groceries",$0.00,-$465.45,-$465.45
+"Feb 2021","Variable Expenses: Auto Maintenance","Variable Expenses","Auto Maintenance",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: Gasoline","Variable Expenses","Gasoline",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: Medical","Variable Expenses","Medical",$0.00,-$112.31,-$112.31
+"Feb 2021","Variable Expenses: Vitamins & Supplements","Variable Expenses","Vitamins & Supplements",$0.00,-$86.39,-$86.39
+"Feb 2021","Variable Expenses: Clothing","Variable Expenses","Clothing",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: Gifts","Variable Expenses","Gifts",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: Giving","Variable Expenses","Giving",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: Computer Replacement","Variable Expenses","Computer Replacement",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: Software Subscriptions","Variable Expenses","Software Subscriptions",$0.00,$0.00,$0.00
+"Feb 2021","Variable Expenses: Stuff I Forgot to Budget For","Variable Expenses","Stuff I Forgot to Budget For",$0.00,$0.00,$0.00
+"Feb 2021","Quality of Life Goals: Vacation","Quality of Life Goals","Vacation",$0.00,$0.00,$0.00
+"Feb 2021","Quality of Life Goals: Fitness","Quality of Life Goals","Fitness",$0.00,$0.00,$0.00
+"Feb 2021","Quality of Life Goals: Education","Quality of Life Goals","Education",$0.00,$0.00,$0.00
+"Feb 2021","Just for Fun: Being Social","Just for Fun","Being Social",$0.00,-$1.09,-$1.09
+"Feb 2021","Just for Fun: Seedbox","Just for Fun","Seedbox",$0.00,$0.00,$0.00
+"Feb 2021","Just for Fun: Support for Content Creators","Just for Fun","Support for Content Creators",$0.00,-$4.99,-$4.99
+"Feb 2021","Just for Fun: Politcal Donations","Just for Fun","Politcal Donations",$0.00,$0.00,$0.00
+"Feb 2021","Just for Fun: Books","Just for Fun","Books",$0.00,-$5.00,-$5.00
+"Feb 2021","Just for Fun: Dining Out","Just for Fun","Dining Out",$0.00,-$17.66,-$17.66
+"Feb 2021","Just for Fun: Gaming","Just for Fun","Gaming",$0.00,$0.00,$0.00
+"Feb 2021","Just for Fun: Music","Just for Fun","Music",$0.00,$0.00,$0.00
+"Feb 2021","Just for Fun: Fun Money","Just for Fun","Fun Money",$0.00,$0.00,$0.00
+"Feb 2021","Hidden Categories: Costco","Hidden Categories","Costco",$0.00,-$8743.61,-$8463.66
+"Feb 2021","Hidden Categories: Discover","Hidden Categories","Discover",$0.00,-$11672.00,-$11251.82
+"Feb 2021","Hidden Categories: Citizens Card","Hidden Categories","Citizens Card",$0.00,-$9029.73,-$8987.82
+"Feb 2021","Hidden Categories: BofA Card","Hidden Categories","BofA Card",$0.00,-$126.17,$474.56
+"Feb 2021","Hidden Categories: WellFargo","Hidden Categories","WellFargo",$0.00,-$3968.52,-$3866.62
+"Mar 2021","Debt Payments: 401K Loan $1139.19","Debt Payments","401K Loan $1139.19",$0.00,$0.00,$0.00
+"Mar 2021","Debt Payments: HELOC Interest $350","Debt Payments","HELOC Interest $350",$0.00,$0.00,$300.00
+"Mar 2021","Debt Payments: IRS 2018 $350","Debt Payments","IRS 2018 $350",$0.00,$0.00,$0.00
+"Mar 2021","Rental Business Expenses: Mortgage $2421.06","Rental Business Expenses","Mortgage $2421.06",$0.00,$0.00,$0.00
+"Mar 2021","Rental Business Expenses: Natural Gas $242","Rental Business Expenses","Natural Gas $242",$0.00,$0.00,$0.00
+"Mar 2021","Rental Business Expenses: Electric Grid $165","Rental Business Expenses","Electric Grid $165",$0.00,$0.00,$165.00
+"Mar 2021","Rental Business Expenses: Electric Solar $70","Rental Business Expenses","Electric Solar $70",$0.00,$0.00,$83.60
+"Mar 2021","Rental Business Expenses: Water $215","Rental Business Expenses","Water $215",$0.00,$0.00,$215.00
+"Mar 2021","Rental Business Expenses: Home Maintenance $300","Rental Business Expenses","Home Maintenance $300",$0.00,$0.00,$300.00
+"Mar 2021","Consulting Business Expenses: Github","Consulting Business Expenses","Github",$0.00,$0.00,$0.00
+"Mar 2021","Consulting Business Expenses: SSDNodes Servers","Consulting Business Expenses","SSDNodes Servers",$0.00,$0.00,$0.00
+"Mar 2021","Consulting Business Expenses: Calendly","Consulting Business Expenses","Calendly",$0.00,$0.00,$0.00
+"Mar 2021","Consulting Business Expenses: Scaleway Servers","Consulting Business Expenses","Scaleway Servers",$0.00,$0.00,$0.00
+"Mar 2021","Consulting Business Expenses: w3c.social","Consulting Business Expenses","w3c.social",$0.00,$0.00,$0.00
+"Mar 2021","Consulting Business Expenses: Invoicing","Consulting Business Expenses","Invoicing",$0.00,$0.00,$0.00
+"Mar 2021","Consulting Business Expenses: Digital Ocean","Consulting Business Expenses","Digital Ocean",$0.00,-$0.85,-$0.85
+"Mar 2021","Consulting Business Expenses: Domain.com Domains","Consulting Business Expenses","Domain.com Domains",$0.00,$0.00,$20.00
+"Mar 2021","Consulting Business Expenses: Godaddy Domains","Consulting Business Expenses","Godaddy Domains",$0.00,$0.00,$0.00
+"Mar 2021","Consulting Business Expenses: Wordpress","Consulting Business Expenses","Wordpress",$0.00,$0.00,$5.00
+"Mar 2021","Consulting Business Expenses: Ionos hawke.org","Consulting Business Expenses","Ionos hawke.org",$0.00,$0.00,$15.00
+"Mar 2021","Consulting Business Expenses: Zoom $12","Consulting Business Expenses","Zoom $12",$0.00,$0.00,$12.00
+"Mar 2021","Consulting Business Expenses: Internet + Voice MODIFY $156.75","Consulting Business Expenses","Internet + Voice MODIFY $156.75",$0.00,-$156.75,-$156.75
+"Mar 2021","Other Constant Expenses: Health Insurance","Other Constant Expenses","Health Insurance",$0.00,$0.00,$0.00
+"Mar 2021","Other Constant Expenses: Microsoft Office 365 - B","Other Constant Expenses","Microsoft Office 365 - B",$0.00,$0.00,$0.00
+"Mar 2021","Other Constant Expenses: News - NYTimes","Other Constant Expenses","News - NYTimes",$0.00,$0.00,$0.00
+"Mar 2021","Other Constant Expenses: Boston Globe, $27.72 on 18th","Other Constant Expenses","Boston Globe, $27.72 on 18th",$0.00,$0.00,$0.00
+"Mar 2021","Other Constant Expenses: Google Cloud","Other Constant Expenses","Google Cloud",$0.00,$0.00,$0.00
+"Mar 2021","Other Constant Expenses: Life Insurance","Other Constant Expenses","Life Insurance",$0.00,$0.00,$0.00
+"Mar 2021","Other Constant Expenses: Amazon Prime  $12.99","Other Constant Expenses","Amazon Prime  $12.99",$0.00,$0.00,$0.00
+"Mar 2021","Other Constant Expenses: Whatbox","Other Constant Expenses","Whatbox",$0.00,$0.00,$15.00
+"Mar 2021","Other Constant Expenses: Spotify Family","Other Constant Expenses","Spotify Family",$0.00,$0.00,$0.00
+"Mar 2021","Other Constant Expenses: Mobile Phone","Other Constant Expenses","Mobile Phone",$0.00,$0.00,$0.00
+"Mar 2021","Other Constant Expenses: Auto Insurance // MODIFY","Other Constant Expenses","Auto Insurance // MODIFY",$0.00,$0.00,$0.00
+"Mar 2021","Other Constant Expenses: Netflix $15.99","Other Constant Expenses","Netflix $15.99",$0.00,$0.00,$0.00
+"Mar 2021","Other Constant Expenses: Experian 19.95 on 18","Other Constant Expenses","Experian 19.95 on 18",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Aubrey College","Variable Expenses","Aubrey College",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Household","Variable Expenses","Household",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Pets","Variable Expenses","Pets",$0.00,-$101.00,-$101.00
+"Mar 2021","Variable Expenses: Ignore","Variable Expenses","Ignore",$0.00,-$222.04,$42014.35
+"Mar 2021","Variable Expenses: G Holdings","Variable Expenses","G Holdings",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: B Holdings","Variable Expenses","B Holdings",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: A Holdings","Variable Expenses","A Holdings",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: C Holdings","Variable Expenses","C Holdings",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Dental","Variable Expenses","Dental",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Groceries","Variable Expenses","Groceries",$0.00,-$23.72,-$23.72
+"Mar 2021","Variable Expenses: Auto Maintenance","Variable Expenses","Auto Maintenance",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Gasoline","Variable Expenses","Gasoline",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Medical","Variable Expenses","Medical",$0.00,-$129.22,-$129.22
+"Mar 2021","Variable Expenses: Vitamins & Supplements","Variable Expenses","Vitamins & Supplements",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Clothing","Variable Expenses","Clothing",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Gifts","Variable Expenses","Gifts",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Giving","Variable Expenses","Giving",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Computer Replacement","Variable Expenses","Computer Replacement",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Software Subscriptions","Variable Expenses","Software Subscriptions",$0.00,$0.00,$0.00
+"Mar 2021","Variable Expenses: Stuff I Forgot to Budget For","Variable Expenses","Stuff I Forgot to Budget For",$0.00,$0.00,$0.00
+"Mar 2021","Quality of Life Goals: Vacation","Quality of Life Goals","Vacation",$0.00,$0.00,$0.00
+"Mar 2021","Quality of Life Goals: Fitness","Quality of Life Goals","Fitness",$0.00,$0.00,$0.00
+"Mar 2021","Quality of Life Goals: Education","Quality of Life Goals","Education",$0.00,$0.00,$0.00
+"Mar 2021","Just for Fun: Being Social","Just for Fun","Being Social",$0.00,$0.00,$0.00
+"Mar 2021","Just for Fun: Seedbox","Just for Fun","Seedbox",$0.00,$0.00,$0.00
+"Mar 2021","Just for Fun: Support for Content Creators","Just for Fun","Support for Content Creators",$0.00,-$4.99,-$4.99
+"Mar 2021","Just for Fun: Politcal Donations","Just for Fun","Politcal Donations",$0.00,$0.00,$0.00
+"Mar 2021","Just for Fun: Books","Just for Fun","Books",$0.00,$0.00,$0.00
+"Mar 2021","Just for Fun: Dining Out","Just for Fun","Dining Out",$0.00,$0.00,$0.00
+"Mar 2021","Just for Fun: Gaming","Just for Fun","Gaming",$0.00,$0.00,$0.00
+"Mar 2021","Just for Fun: Music","Just for Fun","Music",$0.00,$0.00,$0.00
+"Mar 2021","Just for Fun: Fun Money","Just for Fun","Fun Money",$0.00,$0.00,$0.00
+"Mar 2021","Hidden Categories: Costco","Hidden Categories","Costco",$0.00,$222.04,$222.04
+"Mar 2021","Hidden Categories: Discover","Hidden Categories","Discover",$0.00,$0.00,$0.00
+"Mar 2021","Hidden Categories: Citizens Card","Hidden Categories","Citizens Card",$0.00,$0.00,$0.00
+"Mar 2021","Hidden Categories: BofA Card","Hidden Categories","BofA Card",$0.00,$0.00,$474.56
+"Mar 2021","Hidden Categories: WellFargo","Hidden Categories","WellFargo",$0.00,$0.00,$0.00

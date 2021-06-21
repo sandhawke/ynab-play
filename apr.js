@@ -1,6 +1,5 @@
 const fetch = require('node-fetch')
 var columnify = require('columnify')
-const { writeFile } = require('fs/promises')
 
 const accessToken = process.env.TOKEN
 if (!accessToken) throw Error('set TOKEN first')
@@ -63,7 +62,6 @@ function money (a) {
 
 async function main () {
   const b = await getBudget()
-  await writeFile('./budget-snapshot.json', JSON.stringify(b, null, 2))
   //   console.log(b)
   const ts = b.transactions
   // ts.sort((a,b) => a.date.localeCompare(b.date))
@@ -77,8 +75,8 @@ async function main () {
       date:t.date,
       raw_amount: t.amount / 1000,
       amt: money(t.amount / 1000),
-      payee: (t.payee?.name ?? '').slice(0,30),
-      category: (t.categoryGroup?.name + ':' + t.category?.name).slice(0,50),
+      payee: (t.payee?.name ?? '').slice(0,20),
+      category: t.categoryGroup?.name + ':' + t.category?.name,
       memo: t.memo??''
     })
   }
@@ -102,7 +100,6 @@ async function main () {
       if (!filter(t)) continue
       if (!t.date.startsWith(month)) continue
       if (t.category?.name === 'Inflow: To be Budgeted') continue
-      if (t.category?.name === 'Inflow: Ready to Assign') continue
       sum += t.amount
       show(t)
     }
@@ -123,8 +120,7 @@ async function main () {
     }))
   }
 
-  const month = process.env.month // || '2021-02'
-  if (!month) throw Error('export month=2021-05')
+  const month = process.env.month || '2021-02'
   
   report(month, 'Not Approved',
          t => !t.approved)
